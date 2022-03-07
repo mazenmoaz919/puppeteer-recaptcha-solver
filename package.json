@@ -1,0 +1,34 @@
+{
+  "name": "puppeteer-recaptcha-solver",
+  "version": "1.5.0",
+  "description": "solve recaptcha in the page for free",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazenmoaz919/puppeteer-recaptcha-solver.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "solver",
+    "recaptcha-solver",
+    "recaptcha solver",
+    "puppeteer-recaptcha-solver",
+    "puppeteer recaptcha solver",
+    "puppeteer-recaptcha",
+    "recatcha-puppeteer",
+    "puppeteer recaptcha",
+    "recatcha puppeteer",
+    "puppeteer",
+    "puppeteer-solver",
+    "puppeteer solver"
+  ],
+  "author": "RACOON#8980",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazenmoaz919/puppeteer-recaptcha-solver/issues"
+  },
+  "homepage": "https://github.com/mazenmoaz919/puppeteer-recaptcha-solver#readme"
+}
